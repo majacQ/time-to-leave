@@ -15,12 +15,12 @@
     "gsap": "^3.6.0",
     "imagesloaded": "^4.1.4",
     "splitting": "^1.0.6",
-    "parcel-bundler": "^1.12.4"
+    "parcel-bundler": "^1.12.5"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
     "@babel/preset-env": "^7.12.16",
-    "parcel-bundler": "^1.12.4",
+    "parcel-bundler": "^1.12.5",
     "sass": "^1.32.6"
   }
 }
